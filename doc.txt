@@ -1,0 +1,3 @@
+    First import randint from random, then define counts of heads, tails and count = 0. In a while loop get input and store it in guess. 
+    If guess == 'heads' or 'tails': define res = 'heads' if randint(0, 1) == 0, else res = 'tails'. If res == 'heads', add 1 to heads. Else add 1 to tails. Then add 1 to count. Print out the result.
+    If guess == 'x': print out the counts and end the program. Else print 'Type heads/tails/x only.' Then go to the start of while loop.
